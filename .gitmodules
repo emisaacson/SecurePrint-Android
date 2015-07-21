@@ -1,0 +1,3 @@
+[submodule "btle"]
+	path = btle
+	url = https://github.com/alt236/Bluetooth-LE-Library---Android.git

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Set this to the base URL of the API server -->
+    <string name="base_api_url">http://myprintserver.local/</string>
+    
+    
+    
+    
+    <string name="app_name">Print Beacon</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login_path">login</string>
+    <string name="title_activity_logout">Logout</string>
+    <string name="logout_path">logout</string>
+    <string name="get_jobs_path">print/jobs</string>
+    <string name="release_jobs_path">print/releaseAll</string>
+    <string name="get_beacon_map">print/beaconMap</string>
+</resources>
